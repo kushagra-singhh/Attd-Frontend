@@ -1,0 +1,8 @@
+Flask
+pymongo[srv]
+Flask-Pymongo
+datetime
+gunicorn
+Werkzeug
+pandas
+numpy
