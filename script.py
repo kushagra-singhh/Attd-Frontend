@@ -1,7 +1,7 @@
-# from crypt import methods
+#from crypt import methods
 import datetime
 from flask import Flask,request,url_for,redirect,render_template
-from pymongo import MongoClient 
+from pymongo import MongoClient
 from werkzeug.utils import secure_filename
 import pandas as pd
 import numpy as np
@@ -221,6 +221,6 @@ def excel_to_pd(file,sub):
                     sub_db.insert_one(({'name':df['Name'][ind],'date':col,'attd':'present'}))      
                     
 if __name__ == '__main__':
-	app.run(debug=True)
+	app.run(debug=True ,port=5100 )
 
 
