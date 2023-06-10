@@ -54,7 +54,7 @@ To run the frontend code locally, follow these steps:
 
 ## Deployment
 
-To deploy the frontend code to a production environment, you can use various hosting services such as Netlify, Vercel, or GitHub Pages. Follow the hosting provider's documentation to deploy the React application.
+To deploy the frontend code to a production environment, you can use various hosting services such as Render, Heroku or Vercel. Follow the hosting provider's documentation to deploy the application.
 
 Remember to update the API URL in the code to point to the production backend server.
 
@@ -73,9 +73,3 @@ Please ensure that your code follows the existing coding style and includes appr
 ## License
 
 The Attendance Tracker frontend code is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-This project was developed by [Kushagra Singh](https://github.com/kushagra-singhh) as a part of a personal project or assignment. Special thanks to the open-source community for providing valuable resources and inspiration.
-
-If you have any questions or need further assistance, feel free to contact the project maintainer.
