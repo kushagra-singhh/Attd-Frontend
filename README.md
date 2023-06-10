@@ -4,9 +4,9 @@ attendance management web app with flask framework and MongoDB database hosted o
 
 # Attendance Management
 
-This repository contains the frontend code for the Attendance Tracker application. The Attendance Tracker is a web-based application designed to simplify and automate attendance management for educational institutions, organizations, or any other entity that requires attendance tracking.
+This repository contains the code for the Attendance Management Website. It is a web app with Flask framework and MongoDB database hosted on Render. The Attendance Tracker is a web-based application designed to simplify and automate attendance management for educational institutions, organizations, or any other entity that requires attendance tracking.
 
-The frontend code is developed using modern web technologies such as React, JavaScript, HTML, and CSS. It provides a user-friendly interface for interacting with the Attendance Tracker system.
+The frontend code is developed using modern web technologies such as JavaScript, HTML, and CSS. It provides a user-friendly interface for interacting with the Attendance Tracker system.
 
 ## Features
 
