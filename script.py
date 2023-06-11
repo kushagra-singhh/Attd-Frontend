@@ -221,6 +221,4 @@ def excel_to_pd(file,sub):
                     sub_db.insert_one(({'name':df['Name'][ind],'date':col,'attd':'present'}))      
                     
 if __name__ == '__main__':
-	app.run(debug=True ,port=5100 )
-
-
+    app.run(debug=True)
