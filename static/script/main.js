@@ -38,3 +38,16 @@ function changePageTheme() {
     setPageTheme(currentTheme)
 
 }
+
+
+function index_teacher() {
+    location.href = "/auth"
+}
+
+// document.getElementById("tea-btn").onclick = function () {
+//     location.href = "/auth"
+// }
+function index_student() {
+    window.location.href = "/s"
+}
+
